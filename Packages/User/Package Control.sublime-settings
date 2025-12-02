@@ -1,13 +1,12 @@
 {
-	"bootstrapped": true,
+	"bootstrapped": false,
 	"installed_packages":
 	[
 		"Package Control"
 	],
 	"channels": [
-		"https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/channel.json",
-		"C:/Users/Admin/AppData/Roaming/Sublime Text/Installed Packages/channel_v3.json",
-		"https://web.archive.org/web/20250822091125/https://packagecontrol.io/channel_v3.json",
-		"https://packagecontrol.io/channel_v3.json",
+		"C:/Users/USERPROFILE/AppData/Roaming/Sublime Text/Installed Packages/channel_v3.json",
+		"https://raw.githubusercontent.com/Pomkis/SublimeTextPackageFix/refs/heads/main/Installed%20Packages/channel_v3.json",
+		"https://packagecontrol.io/channel_v3.json"
 	],
 }
