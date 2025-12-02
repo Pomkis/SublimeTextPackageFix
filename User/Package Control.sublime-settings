@@ -1,0 +1,8 @@
+{
+	"bootstrapped": true,
+	"channels": [
+		"https://packagecontrol.io/channel_v3.json",
+		"%AppData%/Sublime Text/Installed Packages/channel_v3.json"
+	],
+	
+}
